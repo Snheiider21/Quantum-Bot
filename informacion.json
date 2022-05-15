@@ -1,7 +1,7 @@
 {
-	"Prefijo": ".",
+	"Prefijo": "^",
 	"LenguajeDelBot": "es",
-	"NombreDelBot": "Quantum|Bot",
+	"NombreDelBot": "Zero|Bot",
 	"ControladorDelBot": [
 		"51995386439@s.whatsapp.net",
 		"52999999999@s.whatsapp.net",
